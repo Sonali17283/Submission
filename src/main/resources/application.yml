@@ -1,0 +1,12 @@
+hiring:
+  baseUrl: https://bfhldevapigw.healthrx.co.in
+
+candidate:
+  name: YOUR_NAME_HERE
+  regNo: REG12347
+  email: your.email@example.com
+
+logging:
+  level:
+    root: INFO
+    org.springframework.web.client.RestTemplate: INFO
